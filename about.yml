@@ -1,1 +1,10 @@
-
+---
+name: Nechaev Maksim
+job: QA Engineer
+level: junior
+email: ilona@hexlet.io
+description: |
+  Всем привет меня зовут Максим мне 26 лет
+skills: 
+  - Функциональное тестирование
+  - Написание багрепортов
