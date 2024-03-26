@@ -23,3 +23,6 @@
     Мультиязычность
   status: fail
   
+- summary: |
+    Проверка фильтров
+  status: pass
