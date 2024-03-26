@@ -1,1 +1,25 @@
+---
+- summary: |
+    Поиск товара по названию
+  status: pass
 
+- summary: |
+    Просмотр информации о товаре
+  status: pass
+  
+- summary: |
+    Добавление товара в корзину
+  status: pass
+  
+- summary: |
+    Другие устройства
+  status: fail
+  
+- summary: |
+    Кроссбраузерность
+  status: pass
+
+- summary: |
+    Мультиязычность
+  status: fail
+  
